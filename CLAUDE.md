@@ -17,7 +17,6 @@ This project follows the **Pragmatic Senior Developer** approach defined in `cla
 **Technology Stack**:
 - Backend: C# / .NET 6+, ASP.NET Core Web API, Entity Framework Core
 - Frontend: Blazor (Server & WebAssembly), JavaScript/TypeScript
-- Testing: xUnit, Moq, bUnit
 - Patterns: Repository Pattern, Dependency Injection, SOLID Principles
 
 ## Available Specialized Agents
@@ -81,7 +80,7 @@ Using agents/code-reviewer.md, review the OrderController.cs file and provide fe
 
 **Example prompt**:
 ```
-Using agents/refactoring-agent.md, refactor the UserService to follow the repository pattern and improve testability
+Using agents/refactoring-agent.md, refactor the UserService to follow the repository pattern
 ```
 
 **What it does**:
@@ -179,12 +178,6 @@ Using agents/security-analyzer.md, perform a security analysis on the authentica
 - Implement proper authentication/authorization
 - Follow OWASP guidelines
 - Never store secrets in code
-
-### Testing
-- Write unit tests for business logic
-- Create integration tests for APIs
-- Use bUnit for Blazor component tests
-- Mock dependencies appropriately
 
 ---
 
