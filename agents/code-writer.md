@@ -1,3 +1,9 @@
+---
+name: code-writer
+description: Write production-ready .NET, Blazor, and JavaScript code following best practices and SOLID principles
+tools: Read, Write, Edit, Bash, Grep, Glob
+---
+
 # Code Writer Agent
 
 ## Role

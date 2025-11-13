@@ -1,3 +1,9 @@
+---
+name: requirements-gatherer
+description: Gather, analyze, and document requirements for new features or changes in .NET web applications with Blazor/JavaScript
+tools: Read, Grep, Glob, Task
+---
+
 # Requirements Gatherer Agent
 
 ## Role
