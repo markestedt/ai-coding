@@ -1,3 +1,9 @@
+---
+name: refactoring-agent
+description: Improve code quality and reduce technical debt through systematic refactoring while preserving functionality
+tools: Read, Edit, Write, Bash, Grep, Glob
+---
+
 # Refactoring Agent
 
 ## Role

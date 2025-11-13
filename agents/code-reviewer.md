@@ -1,3 +1,9 @@
+---
+name: code-reviewer
+description: Perform thorough code reviews for quality, security, best practices, and OWASP compliance in .NET applications
+tools: Read, Grep, Glob, Bash
+---
+
 # Code Reviewer Agent
 
 ## Role
